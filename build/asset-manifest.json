@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Exerciseformatter/static/css/main.00a24018.css",
+    "main.js": "/Exerciseformatter/static/js/main.31d6aafe.js",
+    "static/js/213.f4e8a904.chunk.js": "/Exerciseformatter/static/js/213.f4e8a904.chunk.js",
+    "static/js/732.9b7b16d4.chunk.js": "/Exerciseformatter/static/js/732.9b7b16d4.chunk.js",
+    "index.html": "/Exerciseformatter/index.html",
+    "main.00a24018.css.map": "/Exerciseformatter/static/css/main.00a24018.css.map",
+    "main.31d6aafe.js.map": "/Exerciseformatter/static/js/main.31d6aafe.js.map",
+    "213.f4e8a904.chunk.js.map": "/Exerciseformatter/static/js/213.f4e8a904.chunk.js.map",
+    "732.9b7b16d4.chunk.js.map": "/Exerciseformatter/static/js/732.9b7b16d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a24018.css",
+    "static/js/main.31d6aafe.js"
+  ]
+}
